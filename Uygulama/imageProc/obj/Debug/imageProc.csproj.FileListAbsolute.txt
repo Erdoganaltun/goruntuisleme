@@ -1,0 +1,51 @@
+C:\Users\Hakan\source\repos\imageProc\imageProc\bin\Debug\imageProc.exe.config
+C:\Users\Hakan\source\repos\imageProc\imageProc\bin\Debug\imageProc.exe
+C:\Users\Hakan\source\repos\imageProc\imageProc\bin\Debug\imageProc.pdb
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.csprojAssemblyReference.cache
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.Form1.resources
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.Form2.resources
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.Properties.Resources.resources
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.csproj.GenerateResource.cache
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.exe
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.pdb
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.Form3.resources
+C:\Users\Hakan\source\repos\imageProc\imageProc\obj\Debug\imageProc.Form4.resources
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\bin\Debug\imageProc.exe.config
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\bin\Debug\imageProc.exe
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\bin\Debug\imageProc.pdb
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.csprojAssemblyReference.cache
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.Form1.resources
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.Form2.resources
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.Form3.resources
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.Form4.resources
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.Properties.Resources.resources
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.csproj.GenerateResource.cache
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.csproj.CoreCompileInputs.cache
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.exe
+D:\c#_projects\imageProcessing\Uygulama\imageProc\imageProc\obj\Debug\imageProc.pdb
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\bin\Debug\imageProc.exe.config
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.exe
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.pdb
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\bin\Debug\imageProc.exe
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\bin\Debug\imageProc.pdb
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.csprojResolveAssemblyReference.cache
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form1.resources
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form2.resources
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form3.resources
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form4.resources
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Properties.Resources.resources
+C:\Users\ERDOĞAN\Desktop\Yeni klasör\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.csproj.GenerateResource.Cache
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\bin\Debug\imageProc.exe.config
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.exe
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.pdb
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\bin\Debug\imageProc.exe
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\bin\Debug\imageProc.pdb
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.csprojResolveAssemblyReference.cache
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form1.resources
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form2.resources
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form3.resources
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form4.resources
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Form5.resources
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.Properties.Resources.resources
+C:\Users\ERDOĞAN\Desktop\görsel programlama notları\1-)imageProcessing-master\Uygulama\imageProc\obj\Debug\imageProc.csproj.GenerateResource.Cache
